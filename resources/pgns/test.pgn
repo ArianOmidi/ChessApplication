@@ -1,0 +1,10 @@
+[Event "AOChess Engine Friendly"]
+[Site "Online"]
+[Date "2020.09.17"]
+[Date "12:33:11"]
+[White "Human"]
+[Black "Human"]
+[Result "1-0"]
+[Opening "B01    Scandinavian Defense "]
+
+1. e4 d5 2. exd5 Qxd5 3. Qg4 Qxg2 4. Bxg2 Bxg4 5. Bxb7 Nc6 6. Bxc6+ Bd7 7. Bxa8 Kd8 8. Nc3 Bc6 9. Bxc6 a5 10. b4 axb4 11. Rb1 bxc3 12. Rb8# 1-0
